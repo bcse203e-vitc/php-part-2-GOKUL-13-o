@@ -1,0 +1,4 @@
+Rahul Sharma,rahul@example.com,2006-05-15
+shannu,shannu@example,1999-12-30
+Arun Kumar,arun.kumar@example.com,2005-02-31
+karthik Reddy,karthik.reddy@example.com,2001-07-20
